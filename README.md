@@ -11,10 +11,3 @@ Current supported Task's:
 
 * *OSPF Base Configuration (Single Mode)*
 * *EIGRP Classic Mode*
-
-# EVE-NG Labs
-**CCNA-CCNP-CCIE Labs**
-
-Current Labs:
-
-* *INE CCIE RSv5
