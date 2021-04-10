@@ -4,7 +4,7 @@ import getpass
 import telnetlib
 
 #OSPF
-def ospf(HOST,user,password,ensec):
+def eigrp(HOST,user,password,ensec):
 	nw = input("In which network do you want to run EIGRP? >> ")
 	wildmask = input("Enter Wildcard mask: >> ")
 	asn = input("ASN? >> ")
@@ -47,7 +47,7 @@ while True:
 		print("OK, Lets Configure...")
 
 		if select == 1:
-			ospf(HOST,user,password,ensec)
+			eigrp(HOST,user,password,ensec)
 		elif select == 2:
 			Vlan()
 		elif select == 3:
