@@ -9,5 +9,5 @@ Current supported Devices :
 
 Current supported Task's:
 
-* *OSPF Base Configuration (Single Mode)*
-* *EIGRP Classic Mode*
+* *OSPF Base Configuration (Single Mode) > Telnet*
+* *EIGRP Classic Mode > Telnet*
