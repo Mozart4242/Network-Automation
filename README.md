@@ -8,4 +8,13 @@ Current supported Devices :
 **CISCO**
 
 Current supported Task's:
-**OSPF Base Configuration (Single Mode)**
+
+* *OSPF Base Configuration (Single Mode)*
+* *EIGRP Classic Mode*
+
+# EVE-NG Labs
+**CCNA-CCNP-CCIE Labs**
+
+Current Labs:
+
+* *INE CCIE RSv5
